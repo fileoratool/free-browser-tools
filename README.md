@@ -2,9 +2,28 @@
 
 **150 free online tools that run in your browser.** No upload, no sign-up, no watermark.
 
-This is the full list of tools on [Fileora](https://fileora.tools), grouped by category. Each one does its work on your own device: the file you open is read by your browser and is not sent to a server. That makes the tools safe for ID photos, contracts and bank statements, and it means there is no queue and no daily limit.
+![tools: 150](https://img.shields.io/badge/tools-150-6366F1) ![files: never uploaded](https://img.shields.io/badge/files-never%20uploaded-16A34A) ![sign-up: not needed](https://img.shields.io/badge/sign--up-not%20needed-16A34A) ![license: CC0](https://img.shields.io/badge/license-CC0-lightgrey)
 
-The list is maintained by the Fileora team and generated from the site's tool registry, so it matches what is live.
+[![Fileora homepage: search box, file dropzone and tool categories](assets/home.png)](https://fileora.tools)
+
+This is the full list of tools on [Fileora](https://fileora.tools), grouped by category. The list is maintained by the Fileora team and generated from the site's tool registry, so it matches what is live.
+
+## Why browser-only
+
+- **Private.** The file you open is read by your own browser and is not sent to a server, so there is no copy to leak or to forget to delete.
+- **Fast.** Nothing has to upload first, which matters most with large scans and slow connections.
+- **No limits.** No account, no queue, no daily quota and no watermark on the result.
+- **Any device.** The same tools work on a phone, a tablet and a computer.
+
+## What a tool looks like
+
+The [Image Compressor](https://fileora.tools/tools/image-compressor) with a 50 KB target: a 1.7 MB photo comes out at 46.9 KB, and the photo never leaves the device.
+
+[<img src="assets/image-compressor.png" alt="Image Compressor set to a 50 KB target, showing a 1.7 MB photo reduced to 46.9 KB" width="560">](https://fileora.tools/tools/image-compressor)
+
+## Popular tools
+
+[Image Compressor](https://fileora.tools/tools/image-compressor) · [Merge PDF](https://fileora.tools/tools/pdf-merge) · [Compress PDF](https://fileora.tools/tools/pdf-compress) · [QR Code Generator](https://fileora.tools/tools/qr-code-generator) · [Password Generator](https://fileora.tools/tools/password-generator) · [Word Counter](https://fileora.tools/tools/word-counter) · [JPG to PDF](https://fileora.tools/tools/jpg-to-pdf) · [Image Resizer](https://fileora.tools/tools/image-resizer) · [MP4 to MP3](https://fileora.tools/tools/mp4-to-mp3) · [Split PDF](https://fileora.tools/tools/split-pdf) · [PDF to JPG](https://fileora.tools/tools/pdf-to-jpg) · [Crop Image](https://fileora.tools/tools/crop-image) · [Passport Photo Maker](https://fileora.tools/tools/passport-photo-maker) · [Percentage Calculator](https://fileora.tools/tools/percentage-calculator) · [Case Converter](https://fileora.tools/tools/case-converter) · [Base64 Encode & Decode](https://fileora.tools/tools/base64-encode-decode) · [Hash Generator](https://fileora.tools/tools/hash-generator) · [Urdu Keyboard](https://fileora.tools/tools/urdu-keyboard) · [Roman Urdu to Urdu](https://fileora.tools/tools/roman-urdu-to-urdu) · [Prayer Times](https://fileora.tools/tools/prayer-times)
 
 ## Contents
 
